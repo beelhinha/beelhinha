@@ -3,7 +3,7 @@
 # Perfil Profissional
 
 ## Sobre Mim
-Olá! Meu nome é Beatriz, sou estudante de **Gestão da Tecnologia da Informação** no **Centro Universitário Senac**. Tenho **19 anos** e estou me interessando por tecnologia. Meu objetivo é aprender e crescer na área de desenvolvimento de software futuramente, após terminar o curso de GTI.
+Olá! Meu nome é Beatriz, sou estudante de **Gestão da Tecnologia da Informação** no **Centro Universitário Senac**. Tenho **20 anos** e estou me interessando por tecnologia. Meu objetivo é aprender e crescer na área de desenvolvimento de software futuramente, após terminar o curso de GTI.
 
 ## Interesses
 - **JavaScript**: Adoro a versatilidade do JavaScript e como ele é usado tanto no front-end quanto no back-end.
