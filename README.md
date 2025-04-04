@@ -16,7 +16,7 @@ Aqui estão alguns dos projetos em que estou trabalhando:
 
 
 1. **Blog Pessoal**: Desenvolvendo um blog onde compartilho minhas experiências da minha vida e dia a dia.
-
+2. **Bee Search**: Bee Search é o meu projeto de aplicativo destinado a procurar prestadores de serviço por meio de um app.
 
 ## Futuro
 Além de concluir minha graduação, tenho planos de fazer mais uma faculdade na área de tecnologia.
