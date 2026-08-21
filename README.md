@@ -3,7 +3,7 @@
 # Perfil Profissional
 
 ## Sobre Mim
-Meu nome é Beatriz, atuo como estudante de **Gestão da Tecnologia da Informação** no **Centro Universitário Senac** e estudante de **Desenvolvimento de software Multiplataforma** na **Fatec**. Possuo **21 anos** e sou muito interessada por tecnologia. Meu objetivo é aprender e crescer na área de gerenciamento de t.i e focar também na àrea de testes.
+Meu nome é Beatriz, atuo como estudante de **Gestão da Tecnologia da Informação** no **Centro Universitário Senac** e estudante de **Desenvolvimento de software Multiplataforma** na **Fatec**. Possuo **21 anos** e sou muito interessada por tecnologia. Meu objetivo é aprender e crescer na área de gerenciamento de t.i e focar também na àrea de dados.
 
 ## Interesses e usos diários
 - **JavaScript**: a versatilidade do JavaScript e como ele é usado tanto no front-end quanto no back-end é o que me faz gostar dele.
