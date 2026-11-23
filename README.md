@@ -5,20 +5,13 @@
 ## Sobre Mim
 Meu nome é Beatriz, sou formada em **Gestão da Tecnologia da Informação** no **Centro Universitário Senac** e atuo como estudante de **Desenvolvimento de software Multiplataforma** na **Fatec**. Possuo **21 anos** e sou muito interessada por tecnologia. Meu objetivo é aprender e crescer na área de gerenciamento de t.i e focar também na àrea de dados.
 
-## Interesses e usos diários
-- **JavaScript**: a versatilidade do JavaScript e como ele é usado tanto no front-end quanto no back-end é o que me faz gostar dele.
-- **Java**: atuo em desenvolvimento de aplicativos com o Java.
-- **Python**: uso pela simplicidade e ampla bibliotecas do Python, são muito úteis.
-- **SQL**: o bancos de dados e consultas SQL é o essencial para os meus projetos.
-
 ## Projetos
 Aqui estão alguns dos projetos em que estou trabalhando atualmente:
 
 
-1. **Blog Pessoal**: um blog onde compartilho minhas experiências da minha vida e dia a dia.
-2. **Bee Search**: projeto de aplicativo destinado a procurar prestadores de serviço por meio desse app.
-3. **Miaustic**: projeto destinado a inserir jogos de desenvolvedores recém inseridos no mercado dentro de um aplicativo, aplicativo este que tem como objetivo arrecadar dinheiro para abrigos de animais.
-4. **Omni Desk**: aplicativo que une as informações e dados financeiros em um único aplicativo, além de uma calculadora binária. É uma solução mais ampla destinada ao público que possui mais dificuldade de saber sobre informações de finanças e deseja que tudo seja mais simplificado.
+1. **Bee Search**: projeto de aplicativo destinado a procurar prestadores de serviço por meio desse app.  Status: **finalizado**
+2. **Miaustic**: projeto destinado a inserir jogos de desenvolvedores recém inseridos no mercado dentro de um aplicativo, aplicativo este que tem como objetivo arrecadar dinheiro para abrigos de animais.  Status: **em andamento**
+3. **Omni Desk**: aplicativo que une as informações e dados financeiros em um único aplicativo, além de uma calculadora binária. É uma solução mais ampla destinada ao público que possui mais dificuldade de saber sobre informações de finanças e deseja que tudo seja mais simplificado. Status: **finalizado**
 
 ## Formas de Contatos
 <p align="center">
